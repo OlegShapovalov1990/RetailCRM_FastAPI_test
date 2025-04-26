@@ -32,7 +32,6 @@
 5. Создайте файл .env с вашими учетными данными RetailCRM - RETAILCRM_API_URL, RETAILCRM_API_KEY
 
 
-
 6. Запустите приложение в main.py или в терминале 
     ```bash
    uvicorn app.main:app --reload
