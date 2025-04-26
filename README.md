@@ -13,7 +13,7 @@
 
 1. Клонируйте репозиторий:
    ```bash
-   git clone https://github.com/OlegShapovalov1990/Restaurant_booking_api
+   git clone https://github.com/OlegShapovalov1990/RetailCRM_FastAPI_test
    
 2. Активируйте виртуальное окружение в корне проекта:
     ```bash
